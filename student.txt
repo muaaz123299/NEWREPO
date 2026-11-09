@@ -1,0 +1,3 @@
+student name=muaaz 
+ age=18
+ degree=bs english
