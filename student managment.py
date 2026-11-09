@@ -1,0 +1,8 @@
+a=input('enter name')
+b=int(input('enter age'))
+c=int(input('enter rollno'))
+v=int(input('enter marks'))
+print('name',a)
+print('age',b)
+print('roll no ',c)
+print('marks',v)

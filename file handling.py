@@ -1,5 +1,2 @@
-with open ("student.txt","w")as file:
-    p=file.write("student name=muaaz \n age=18\n degree=bs english")
-with open ("student.txt","r")as file:
-    o=file.read()
-    print(o)
+with open("student managment.py","a")as file:
+    o=file.write("print('name'),a\nprint('age'),\nprint('roll no ',c\nprint('marks'),v")
