@@ -5,8 +5,6 @@ with open("diaryy.txt","w")as file:
     file.write("name:{name}\n")
     file.write("age:{age}\n")
     file.write("daily rotien {ask}")
-
-
 with open("diaryy.txt","r")as file:
     d=file.read()
 
