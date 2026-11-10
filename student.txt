@@ -1,9 +1,8 @@
-student name=muaaz 
- age=18
- degree=bs english
-semester=3
- subject=python programming
-skill=git and git hub 
-semester=3
- subject=python programming
-skill=git and git hub 
+ali 
+ ahmad 
+ muaaz 
+ hassan
+ usman
+ sara 
+ zain 
+ hamza
